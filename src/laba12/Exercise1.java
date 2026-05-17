@@ -1,3 +1,5 @@
+package laba12;
+
 import java.time.LocalTime;
 
 public class Exercise1 {

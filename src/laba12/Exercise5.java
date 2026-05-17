@@ -1,3 +1,5 @@
+package laba12;
+
 public class Exercise5 {
 
     private static int max = Integer.MIN_VALUE;

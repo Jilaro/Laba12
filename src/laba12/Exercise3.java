@@ -1,3 +1,5 @@
+package laba12;
+
 public class Exercise3 {
 
     private static final Object lock = new Object();

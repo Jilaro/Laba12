@@ -1,3 +1,5 @@
+package laba12;
+
 public class Exercise6 {
 
     private static int sum = 0;
